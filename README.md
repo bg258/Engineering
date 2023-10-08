@@ -1,8 +1,8 @@
-# Civil Engineering Portfolio
+# Civil Engineering Portfolio ⚙️
 
 Welcome to my Civil Engineering portfolio! This repository is dedicated to documenting my journey as a civil engineer and will house various documents and information related to my studies. Here, you'll find a collection of my coursework, projects, grades, comments, and more.
 
-## Folder Structure
+## Folder Structure 🗁
 
 - **/Coursework**: This directory contains all the materials and assignments related to my courses in civil engineering. You'll find lecture notes, lab reports, and other coursework documents here.
 
