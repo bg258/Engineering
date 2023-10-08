@@ -1,0 +1,2 @@
+# **Projects** 🏗️
+In this directory, I will showcase the various civil engineering projects I have worked on. These projects may include design projects, research papers, and practical applications of engineering principles.
